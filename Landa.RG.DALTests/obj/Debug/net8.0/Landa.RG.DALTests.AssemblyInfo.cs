@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Landa.RG.DALTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f96b2914b146f825b364daa4c2d9721d90398591")]
 [assembly: System.Reflection.AssemblyProductAttribute("Landa.RG.DALTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Landa.RG.DALTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

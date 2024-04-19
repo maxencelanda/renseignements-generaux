@@ -151,3 +151,4 @@ C:\Projets\dotnet\TPs\RG\Landa.RG.DALTests\obj\Debug\net8.0\refint\Landa.RG.DALT
 C:\Projets\dotnet\TPs\RG\Landa.RG.DALTests\obj\Debug\net8.0\Landa.RG.DALTests.pdb
 C:\Projets\dotnet\TPs\RG\Landa.RG.DALTests\obj\Debug\net8.0\Landa.RG.DALTests.genruntimeconfig.cache
 C:\Projets\dotnet\TPs\RG\Landa.RG.DALTests\obj\Debug\net8.0\ref\Landa.RG.DALTests.dll
+C:\Projets\dotnet\TPs\RG\Landa.RG.DALTests\obj\Debug\net8.0\Landa.RG.DALTests.sourcelink.json

@@ -3,10 +3,7 @@
   "WorkspaceRootPath": "C:\\Projets\\dotnet\\TPs\\RG\\RenseignementsGeneraux\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B40DFC63-1DB4-43F2-957A-E45289E44AA5}|..\\Landa.RG.Cli\\Landa.RG.Cli.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E681A4BA-C12E-4653-80AE-7578CA8D010B}|..\\Landa.RG.DAL\\Landa.RG.DAL.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.dal\\service\\rgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{143D56D8-AC30-4DCC-94DA-7500FD81A165}|..\\Landa.RG.DALTests\\Landa.RG.DALTests.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.daltests\\service\\rgservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E681A4BA-C12E-4653-80AE-7578CA8D010B}|..\\Landa.RG.DAL\\Landa.RG.DAL.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.dal\\dal\\landadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -15,10 +12,13 @@
       "AbsoluteMoniker": "D:0:0:{E681A4BA-C12E-4653-80AE-7578CA8D010B}|..\\Landa.RG.DAL\\Landa.RG.DAL.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.dal\\dal\\ilandadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E681A4BA-C12E-4653-80AE-7578CA8D010B}|..\\Landa.RG.DAL\\Landa.RG.DAL.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.dal\\model\\espion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E681A4BA-C12E-4653-80AE-7578CA8D010B}|..\\Landa.RG.DAL\\Landa.RG.DAL.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.dal\\service\\rgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{143D56D8-AC30-4DCC-94DA-7500FD81A165}|..\\Landa.RG.DALTests\\Landa.RG.DALTests.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.daltests\\service\\rgservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B40DFC63-1DB4-43F2-957A-E45289E44AA5}|..\\Landa.RG.Cli\\Landa.RG.Cli.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E681A4BA-C12E-4653-80AE-7578CA8D010B}|..\\Landa.RG.DAL\\Landa.RG.DAL.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.dal\\model\\espion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E681A4BA-C12E-4653-80AE-7578CA8D010B}|..\\Landa.RG.DAL\\Landa.RG.DAL.csproj|c:\\projets\\dotnet\\tps\\rg\\landa.rg.dal\\service\\irgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -31,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 107,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,33 +39,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "RgServiceTests.cs",
               "DocumentMoniker": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.DALTests\\Service\\RgServiceTests.cs",
               "RelativeDocumentMoniker": "..\\Landa.RG.DALTests\\Service\\RgServiceTests.cs",
               "ToolTip": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.DALTests\\Service\\RgServiceTests.cs",
               "RelativeToolTip": "..\\Landa.RG.DALTests\\Service\\RgServiceTests.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAYwEAAAAAAAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwEUAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T12:54:47.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LandaDbContext.cs",
               "DocumentMoniker": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.DAL\\DAL\\LandaDbContext.cs",
               "RelativeDocumentMoniker": "..\\Landa.RG.DAL\\DAL\\LandaDbContext.cs",
               "ToolTip": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.DAL\\DAL\\LandaDbContext.cs",
               "RelativeToolTip": "..\\Landa.RG.DAL\\DAL\\LandaDbContext.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAUwDgAAAApAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwC4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T12:44:39.716Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ILandaDbContext.cs",
               "DocumentMoniker": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.DAL\\DAL\\ILandaDbContext.cs",
               "RelativeDocumentMoniker": "..\\Landa.RG.DAL\\DAL\\ILandaDbContext.cs",
@@ -78,33 +78,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RgService.cs",
               "DocumentMoniker": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.DAL\\Service\\RgService.cs",
               "RelativeDocumentMoniker": "..\\Landa.RG.DAL\\Service\\RgService.cs",
               "ToolTip": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.DAL\\Service\\RgService.cs",
               "RelativeToolTip": "..\\Landa.RG.DAL\\Service\\RgService.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAswDIAAAANAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T12:40:32.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.Cli\\Program.cs",
               "RelativeDocumentMoniker": "..\\Landa.RG.Cli\\Program.cs",
               "ToolTip": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.Cli\\Program.cs",
               "RelativeToolTip": "..\\Landa.RG.Cli\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAABDAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAUAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T12:31:43.603Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Espion.cs",
               "DocumentMoniker": "C:\\Projets\\dotnet\\TPs\\RG\\Landa.RG.DAL\\Model\\Espion.cs",
               "RelativeDocumentMoniker": "..\\Landa.RG.DAL\\Model\\Espion.cs",

@@ -67,7 +67,7 @@ namespace Landa.RG.DAL.Service.Tests
             var actual = service.GetEspionsByVille("Lille");
 
             //Assert
-            List<Model.Espion> expected = [service.GetEspionById(1)];
+            List<Model.Espion> expected = [service.GetEspionById(2)];
             CollectionAssert.AreEqual(expected, actual);
         }
 

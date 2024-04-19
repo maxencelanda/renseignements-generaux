@@ -1,0 +1,14 @@
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\bin\Debug\net8.0\RenseignementsGeneraux.exe
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\bin\Debug\net8.0\RenseignementsGeneraux.deps.json
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\bin\Debug\net8.0\RenseignementsGeneraux.runtimeconfig.json
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\bin\Debug\net8.0\RenseignementsGeneraux.dll
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\bin\Debug\net8.0\RenseignementsGeneraux.pdb
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\obj\Debug\net8.0\RenseignementsGeneraux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\obj\Debug\net8.0\RenseignementsGeneraux.AssemblyInfoInputs.cache
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\obj\Debug\net8.0\RenseignementsGeneraux.AssemblyInfo.cs
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\obj\Debug\net8.0\RenseignementsGeneraux.csproj.CoreCompileInputs.cache
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\obj\Debug\net8.0\RenseignementsGeneraux.dll
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\obj\Debug\net8.0\refint\RenseignementsGeneraux.dll
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\obj\Debug\net8.0\RenseignementsGeneraux.pdb
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\obj\Debug\net8.0\RenseignementsGeneraux.genruntimeconfig.cache
+C:\Projets\dotnet\TPs\RenseignementsGeneraux\obj\Debug\net8.0\ref\RenseignementsGeneraux.dll
